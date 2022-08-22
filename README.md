@@ -1,5 +1,5 @@
 # neural
 
-![Website](neural-brown.vercel.app)
+[](neural-brown.vercel.app)
 
 ![](https://github.com/AdamPetersPortfolio/neural/blob/main/Neural.gif)
