@@ -1,4 +1,4 @@
-# neural
+# Neural
 
 [Website](https://neural-brown.vercel.app)
 
